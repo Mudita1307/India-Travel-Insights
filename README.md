@@ -1,1 +1,2 @@
 # India-Travel-Insights
+Crafted a dazzling data-driven travel guide, “India Travel Insights,” unlocking the best times to explore India’s vibrant landscapes and clustering destinations for personalized adventures. Predicted optimal visit times using Logistic Regression, Decision Trees, SVM and Random Forest, while painting vivid travel patterns with K-means, DBSCAN, Hierarchical Clustering and KNN, visualized through donut charts,sunburst charts, treemaps and bubble plots.  
